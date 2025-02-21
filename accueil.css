@@ -3,3 +3,30 @@ body {
    background: linear-gradient(rgba(247, 244, 244, 0.733), rgba(242, 241, 241, 0.696)), no-repeat, fixed
    url(IMG/DALL·E\ 2025-02-21\ 16.42.21\ -\ A\ subtle\,\ geometric\ pattern\ background\ with\ light\ gray\ and\ white\ tones\,\ simple\ and\ elegant\,\ not\ too\ distracting.\ The\ design\ should\ add\ depth\ and\ textu.webp);
 }
+.content{
+    max-width: 1250px;
+    margin: auto;
+}
+.titleheader{
+    color: black;
+    text-align: center;
+    font-size: 100px;
+}
+h2 {
+    text-align: center;
+    color: violet;
+    font-size: 93px;
+}
+.presentation{
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+    font-size: 40px;
+}
+ul , li , a {
+    display: flex;
+    justify-content: space-between;
+    text-decoration: none;
+    color: black;
+    font-size: 20px;
+}
