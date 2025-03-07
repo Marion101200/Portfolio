@@ -1,28 +1,35 @@
 .facebook{
     height: 100px;
     width: 100px;
-    background-image: url('IMG/facebook2.png');
+    background-image: url('img/facebook2.png');
     background-size: cover;
 }
 .logo{
     height: 200px;
     width: 350px;
-    background-image: url('IMG/LOGOPORTFOLIO.webp');
+    background-image: url('img/');
     background-size: cover;
 }
 .instagram{
     height: 100px;
     width: 100px;
-    background-image: url('IMG/instagram.png');
+    background-image: url('img/instagram.png');
     background-repeat: no-repeat;
 }
 .twitter{
     height: 100px;
     width: 100px;
-    background-image: url('IMG/twitter.png');
+    background-image: url('img/twitter.png');
     background-repeat: no-repeat;
 }
 footer{
     max-width: 1200px;
     margin: auto;
 }
+.righticon{
+    display: flex;
+    justify-content: flex-end;
+}
+/* footer{
+    background-color: black;
+} */

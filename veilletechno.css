@@ -1,0 +1,59 @@
+h3{
+    font-size: 40px;
+    font-weight: 500;
+    line-height: 30px;
+    color: #c01010;
+}
+p{
+font-size: 30px;
+}
+.video-responsive{
+    overflow:hidden;
+    padding-bottom:56.25%; 
+    position:relative;
+    height:0;
+}
+.video-responsive iframe {
+    left:0;
+    top:0;
+    height:100%;
+    width:100%;
+    position:absolute;
+   }
+   .iaGenerative{
+    overflow:hidden;
+    padding-bottom:56.25%; 
+    position:relative;
+    height:0;
+   }
+   .iaGenerative iframe{
+    left:0;
+    top:0;
+    height:100%;
+    width:100%;
+    position:absolute;
+   }
+   .experiences{
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+    font-size: 3em;
+   }
+.diff{
+    color: green;
+    font-size: 40px;
+    text-decoration: underline ;
+}
+.diff_avantages img{
+    height: 1000px;
+    width: 1300px;
+}
+
+.details{
+    font-size: 40px;
+}
+h2 {
+    text-align: center;
+    color: violet;
+    font-size: 93px;
+}

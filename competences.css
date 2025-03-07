@@ -1,0 +1,18 @@
+table , th , td{
+    border: black solid;
+    text-align: center;
+    font-size: 30px;
+}
+caption{
+    color: violet;
+    font-size: 100px;
+}
+#competences{
+    display: flex;
+    justify-content: center;
+}
+h2 {
+    text-align: center;
+    color: violet;
+    font-size: 93px;
+}
