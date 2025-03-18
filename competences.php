@@ -36,6 +36,10 @@ include 'header.php';
                     <td>PHP</td>
                     <td><img src="IMG/4 étoiles.png" alt="etoiles4"></td>
                 </tr>
+                <tr>
+                    <td>Csharp</td>
+                    <td><img src="IMG/4 étoiles.png" alt="etoiles4"></td>
+                </tr>
             </table>
         </section>
         </body>

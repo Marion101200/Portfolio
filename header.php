@@ -14,7 +14,7 @@
     <nav>
         <ul style="list-style: none; padding: 0; margin: 0; display: flex; justify-content: center; gap: 100px;">
             <li><a href="accueil.php" style="color: #fff; text-decoration: none;">Accueil</a></li>
-            <li><a href="apropos.php" style="color: #fff; text-decoration: none;">À Propos</a></li>
+            <li><a href="#about" style="color: #fff; text-decoration: none;">À Propos</a></li>
             <li><a href="competences.php" style="color: #fff; text-decoration: none;">Compétences</a></li>
             <li><a href="portfolio.php" style="color: #fff; text-decoration: none;">Portfolio</a></li>
             <li><a href="experiences.php" style="color: #fff; text-decoration: none;">Mes Expériences</a></li>

@@ -13,10 +13,7 @@ include 'header.php';
 <body>
     <div class="content">
         <div class="titleheader">
-            <h1>Bonjour ! <br>
-                Je suis Marion !<br>
-
-                Développeuse Web ! </h1>
+            <h1>Bienvenue sur mon Portfolio! </h1>
         </div>
         <hr>
         <div id="about">

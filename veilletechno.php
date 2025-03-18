@@ -30,16 +30,16 @@ include 'header.php';
                     <p>
                         Pour effectuer ma veille technologique, je m’y prends de différentes manières.
                         Il faut savoir que je m’informe surtout sur le contenu lié à l'IA.
-                        a première façon de rester à jour est de consulter les Actualités Google en suivant certaines
+                        Ma première façon de rester à jour est de consulter les Actualités Google en suivant certaines
                         catégories comme l’informatique ou encore le site Hitek.fr qui est un site internet regroupant
-                        l’actualité High Tech et Geek.<br>
+                        l’actualité High Tech et Geek mais aussi Twitter.<br>
 
 
                     <h3>Sujet de ma veille</h3>
                     <p>
                         Pour ma veille technologique, j'ai décidé d'aborder le sujet de L'IA. Expliquer ce qu'est L'IA ,
                         la
-                        différence entre l'IA et l'humain, ses defis et son actualités.<br>
+                        différence entre l'IA et l'humain, c'est quoi l'IA générative et ses différences avec l'IA traditionnelle, les avantages et ses inconvénients, ses défis et l'actualité.<br>
 
 
                     <h3>C'est quoi l'IA ? </h3>

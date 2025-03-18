@@ -1,37 +1,38 @@
 h3{
-    font-size: 40px;
+    font-size: 50px;
     font-weight: 500;
     line-height: 30px;
     color: #c01010;
+    text-align: center;
 }
 p{
 font-size: 30px;
+text-align: center;
+padding: 5px;
 }
-.video-responsive{
-    overflow:hidden;
-    padding-bottom:56.25%; 
-    position:relative;
-    height:0;
+.video-responsive {
+    display: flex;
+    justify-content: center; /* Centre la vidéo horizontalement */
+    align-items: center; /* Centre verticalement si nécessaire */
+    height: auto; /* Ajuste la hauteur automatiquement */
+    padding: 20px 0; /* Ajoute un peu d'espace au-dessus et en dessous */
 }
 .video-responsive iframe {
-    left:0;
-    top:0;
-    height:100%;
-    width:100%;
-    position:absolute;
-   }
+    width: 70%; /* Ajuste la largeur (tu peux mettre 50% si tu veux encore plus petit) */
+    max-width: 700px; /* Taille maximale */
+    height: 400px; /* Hauteur proportionnelle */
+}
    .iaGenerative{
-    overflow:hidden;
-    padding-bottom:56.25%; 
-    position:relative;
-    height:0;
+    display: flex;
+    justify-content: center; /* Centre la vidéo horizontalement */
+    align-items: center; /* Centre verticalement si nécessaire */
+    height: auto; /* Ajuste la hauteur automatiquement */
+    padding: 20px 0; /* Ajoute un peu d'espace au-dessus et en dessous */
    }
    .iaGenerative iframe{
-    left:0;
-    top:0;
-    height:100%;
-    width:100%;
-    position:absolute;
+    width: 70%; /* Ajuste la largeur (tu peux mettre 50% si tu veux encore plus petit) */
+    max-width: 700px; /* Taille maximale */
+    height: 400px; /* Hauteur proportionnelle */
    }
    .experiences{
     display: flex;
@@ -43,12 +44,17 @@ font-size: 30px;
     color: green;
     font-size: 40px;
     text-decoration: underline ;
+    text-align: center;
 }
-.diff_avantages img{
-    height: 1000px;
-    width: 1300px;
+.diff_avantages {
+    display: flex;
+    justify-content: center; /* Centre l'image horizontalement */
+    align-items: center; /* Centre l'image verticalement (si besoin) */
 }
-
+.diff_avantages img {
+    height: 800px;
+    /* width: 900px; */
+}
 .details{
     font-size: 40px;
 }
@@ -56,4 +62,18 @@ h2 {
     text-align: center;
     color: violet;
     font-size: 93px;
+}
+.actualite a{
+    font-size: 30px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    text-decoration: underline; /* Ajoute un soulignement */
+    padding: 15px;
+
+}
+.actualite a:hover {
+    color: red; /* Change la couleur en rouge, modifie selon ton choix */
+    transition: color 0.3s ease; /* Ajoute une transition fluide */
+    
 }
