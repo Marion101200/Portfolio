@@ -1,0 +1,39 @@
+.stage1{
+    font-size: 30px;
+    text-align: center;
+}
+h2{
+    text-align: center;
+    color: violet;
+    font-size: 93px;
+}
+h3{
+    color: red;
+    font-size: 40px;
+}
+.logoStage img{
+    width: 300px;
+}
+.filtres img{
+    width: 600px;
+}
+.fiche img{
+    width: 1200px;
+}
+.stage2{
+    font-size: 30px;
+    text-align: center;
+}
+.logoInsta img{
+    width: 400px;
+    
+}
+.captcha img{
+    width: 500px;
+}
+.email img{
+    width: 500px;
+}
+.data img{
+    width: 500px;
+}
