@@ -40,6 +40,10 @@ include 'header.php';
                     <td>Csharp</td>
                     <td><img src="IMG/4 étoiles.png" alt="etoiles4"></td>
                 </tr>
+                <tr>
+                    <td>SQL</td>
+                    <td><img src="img/5 étoiles.png" alt="5 étoiles"></td>
+                </tr>
             </table>
         </section>
         </body>

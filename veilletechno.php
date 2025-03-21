@@ -307,6 +307,11 @@ include 'header.php';
                 </div>
 
             </section>
+
+            <h3>Voici un diaporama condenser pour illustrer ma veille technologique</h3>
+            <div class="diapo">
+            <a href="diapo veille technologique.pdf" download="diapo veille technologique.pdf">Telecharger le diaporama</a>
+            </div>
 </body>
 </html>
 <?php

@@ -77,3 +77,20 @@ h2 {
     transition: color 0.3s ease; /* Ajoute une transition fluide */
     
 }
+.diapo a{
+    font-size: 30px;
+    border: solid black;
+    width: fit-content;
+    padding: 10px;
+    margin-bottom: 15px;
+    background-color: #5cb85c;
+    border-color: #5cb85c;
+    border-radius: 5px;
+}
+.diapo a:hover{
+    color: red;
+}
+.diapo{
+    display: flex;
+    justify-content: center;
+}
