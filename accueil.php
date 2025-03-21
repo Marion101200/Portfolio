@@ -34,6 +34,9 @@ include 'header.php';
                 connaissances et de trouver une alternance pour faire de cette passion mon métier.
                 </p>
             </div>
+            <div class="CV">
+            <a href="CV Marion.pdf" download="CV Marion.pdf">Télécharger mon CV</a>
+            </div>
         </div>
     </div>
 </body>
