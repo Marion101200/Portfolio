@@ -17,14 +17,11 @@ include 'header.php';
 <div id="portfolio">
             <h2>Portfolio 🚧</h2>
             <div class="portfolio">
-                <div class="animaux">
-                    <div class="siteanimaux">Site Web animaux</div>
-                </div>
-                <div class="voyage">
-                    <div class="sitevoyage">Site Web de voyage</div>
-                </div>
                 <div class="jeux">
                     <div class="sitejeux">Site Web de jeux vidéos</div>
+                </div>
+                <div class="admin-Csharp">
+                    <div class="siteCsharp">Site web d'admin en C#</div>
                 </div>
             </div>
         </div>

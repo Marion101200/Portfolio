@@ -1,57 +1,74 @@
-.portfolio{
-    display: flex;
-    justify-content: space-between;
-}
+
 .reseaux{
     display: flex;
     justify-content: space-between;
 }
-.animaux{
-    min-width: 300px;
-    min-height: 300px;
-background-image: url('IMG/animaux.webp');
-background-size: cover;
+
+
+.portfolio {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+    flex-wrap: wrap;
 }
-.voyage{
-    min-width: 300px;
-    min-height: 300px;
-    background-image: url('IMG/voyage.webp');
+.jeux, .admin-Csharp {
+    position: relative;
+    width: 100%;
+    max-width: 500px;
+    height: 300px;
     background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    margin: 0 auto;
+    overflow: hidden;
+    transition: filter 0.3s ease;
+    background-color: rgba(0, 0, 0, 0.5);
+    color: white;
 }
-.jeux{
-    min-width: 600px;
-    min-height: 300px;
-    background-image: url('IMG/nous.jpg');
-    background-size: cover;
+.jeux:hover, .admin-Csharp:hover {
+    filter: brightness(0.8);
 }
 
-.siteanimaux:hover{
-    opacity: 0.7;
+.jeux:hover .sitejeux,
+.admin-Csharp:hover .siteCsharp {
+    opacity: 1;
 }
+.jeux {
+    background-image: url('IMG/nous.jpg');
+}
+
+.admin-Csharp {
+    background-image: url('img/adminCshar.png');
+    background-size: contain; /* Si tu veux voir toute l’image */
+    background-color: #eee; /* Utile pour voir la zone si image plus petite */
+}
+/* Texte au centre (initialement invisible) */
+.sitejeux, .siteCsharp {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: rgba(255, 255, 255, 0.7);
+    padding: 10px 20px;
+    border-radius: 10px;
+    font-weight: bold;
+    font-size: 24px;
+    color: black;
+    opacity: 0;
+    transition: opacity 0.3s ease;
+    text-align: center;
+    z-index: 1;
+}
+
 h2 {
     text-align: center;
     color: violet;
     font-size: 93px;
 }
 
-.sitevoyage:hover{
-    opacity: 0.8;
-}
-.sitejeux , .sitevoyage , .siteanimaux {
-    width: 100%;
-    height: 100%;
-    background-color: grey;
-    opacity: 0;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    color: black;
-    font-weight: bold;
-    font-size: 30px;
-}
-.sitejeux:hover{
-    opacity: 0.9;
-}
+
+
 form{
     text-align: center;
 }
