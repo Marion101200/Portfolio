@@ -16,10 +16,10 @@
     <footer>
         <p>&copy; 2025 Mon Portfolio. Tous droits réservés.</p>
         <p style="display: flex; justify-content: center; gap: 15px;">
-            <a href="https://github.com/monprofil" target="_blank">
+            <a href="https://github.com/Marion101200" target="_blank">
                 <img src="https://cdn-icons-png.flaticon.com/24/733/733609.png" alt="GitHub" width="24" height="24">
             </a>
-            <a href="https://linkedin.com/in/monprofil" target="_blank">
+            <a href="https://www.linkedin.com/in/marion-trouv%C3%A9-257611300/" target="_blank">
                 <img src="https://cdn-icons-png.flaticon.com/24/1384/1384014.png" alt="LinkedIn" width="24" height="24">
             </a>
             <a href="mailto:contact@monportfolio.com">
