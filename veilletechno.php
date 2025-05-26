@@ -297,11 +297,11 @@ include 'header.php';
                                 style="font-size:36px"></i>
                         </p>
                         <a
-                            href="https://www.europe1.fr/societe/lia-accelerateur-de-la-transformation-positive-la-strategie-des-petits-pas-4251906">Europe1.fr</a>
+                            href="https://www.linternaute.com/hightech/internet/6874652-j-ai-remplace-mon-psy-par-chatgpt-quand-l-intelligence-artificielle-remplace-la-psychologie-enquete/">Linternaute.com</a>
                         <a
-                            href="https://www.francetvinfo.fr/replay-radio/nouveau-monde/ia-le-grand-jour-pour-apple_6473864.html">Franceinfo.fr</a>
+                            href="https://www.francebleu.fr/infos/insolite/une-rouennaise-remporte-deux-prix-au-concours-lepine-pour-son-rouge-a-levres-genere-par-l-intelligence-artificielle-2610680">Francebleu.fr</a>
                         <a
-                            href="https://www.lemonde.fr/idees/article/2024/06/07/la-facon-dont-l-ia-definit-l-image-d-une-femme-belle-peut-creer-des-ravages_6237755_3232.html">LeMonde.fr</a>
+                            href="https://www.franceinfo.fr/internet/reseaux-sociaux/facebook/facebook-instagram-derniers-jours-pour-empecher-meta-d-entrainer-son-ia-avec-vos-donnees-personnelles_7268412.html">Franceinfo.fr</a>
                     </div>
                     </p>
                 </div>
@@ -310,7 +310,7 @@ include 'header.php';
 
             <h3>Voici un diaporama condenser pour illustrer ma veille technologique</h3>
             <div class="diapo">
-            <a href="diapo veille technologique.pdf" download="diapo veille technologique.pdf">Telecharger le diaporama</a>
+            <a href="Diapo, veille techno.pdf" download="Diapo, veille techno.pdf">Telecharger le diaporama</a>
             </div>
 </body>
 </html>
